@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/CompoundInterest/CompoundInterest.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/CompoundInterest/CompoundInterest.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/Currency/Currency.iml" filepath="$PROJECT_DIR$/_01_basic/Currency/Currency.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dsa-Java.iml" filepath="$PROJECT_DIR$/Dsa-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_functions/EvenOdd/EvenOdd.iml" filepath="$PROJECT_DIR$/_03_functions/EvenOdd/EvenOdd.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/Fabnocci/Fabnocci.iml" filepath="$PROJECT_DIR$/_01_basic/Fabnocci/Fabnocci.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/Factorial/Factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/1_Basic/FactorsOfNum/FactorsOfNum.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/1_Basic/FactorsOfNum/FactorsOfNum.iml" />
@@ -18,12 +19,15 @@
       <module fileurl="file://$PROJECT_DIR$/_01_basic/LargestTwo/LargestTwo.iml" filepath="$PROJECT_DIR$/_01_basic/LargestTwo/LargestTwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/1_Basic/LargestUntilZero/LargestUntilZero.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/1_Basic/LargestUntilZero/LargestUntilZero.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_functions/MaxAndMinNum/MaxAndMinNum.iml" filepath="$PROJECT_DIR$/_03_functions/MaxAndMinNum/MaxAndMinNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/OddEven/OddEven.iml" filepath="$PROJECT_DIR$/_01_basic/OddEven/OddEven.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/Operators/Operators.iml" filepath="$PROJECT_DIR$/_01_basic/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/Pallindrome/Pallindrome.iml" filepath="$PROJECT_DIR$/_01_basic/Pallindrome/Pallindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/PallindromeString/PallindromeString.iml" filepath="$PROJECT_DIR$/_01_basic/PallindromeString/PallindromeString.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/PerfectNumber/PerfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/Power/Power.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/Power/Power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_functions/PrimeNumRange/PrimeNumRange.iml" filepath="$PROJECT_DIR$/_03_functions/PrimeNumRange/PrimeNumRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_functions/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/_03_functions/PrimeNumber/PrimeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/1_Basic/RectangleArea/RectangleArea.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/1_Basic/RectangleArea/RectangleArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/ReverseAString/ReverseAString.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/ReverseAString/ReverseAString.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/SimpleInterest/SimpleInterest.iml" filepath="$PROJECT_DIR$/_01_basic/SimpleInterest/SimpleInterest.iml" />
@@ -35,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/1_Basic/TriangleArea/TriangleArea.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/1_Basic/TriangleArea/TriangleArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/_01_basic.iml" filepath="$PROJECT_DIR$/_01_basic/_01_basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/_02_conditional-loops.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/_02_conditional-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_functions/_03_functions.iml" filepath="$PROJECT_DIR$/_03_functions/_03_functions.iml" />
     </modules>
   </component>
 </project>

@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="652ce0db-40d5-4688-b34d-bdbd762301de" name="Changes" comment="basic of loops">
-      <change afterPath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/2_intermediate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/AvarageOfNNum/AvarageOfNNum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/CompoundInterest/CompoundInterest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/Factorial/Factorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/Power/Power.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/SumOfNNumbers/SumOfNNumbers.iml" afterDir="false" />
+    <list default="true" id="652ce0db-40d5-4688-b34d-bdbd762301de" name="Changes" comment="intermediate loops">
+      <change afterPath="$PROJECT_DIR$/_03_functions/EvenOdd/EvenOdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_functions/MaxAndMinNum/MaxAndMinNum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_functions/PrimeNumber/PrimeNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_functions/_03_functions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Armstrong/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Armstrong/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,14 +61,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main (1).executor": "Debug",
-    "Application.Main (2).executor": "Debug",
-    "Application.Main (3).executor": "Debug",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
     "Application.Main (4).executor": "Run",
     "Application.Main (5).executor": "Run",
     "Application.Main.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "create.test.in.the.same.root": "true",
@@ -79,7 +77,7 @@
     "jdk.selected.JAVA_MODULE": "20",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ASUS/Desktop/Github Projects/Dsa-Java",
-    "onboarding.tips.debug.path": "C:/Users/ASUS/Desktop/Github Projects/Dsa-Java/_02_conditional-loops/2_intermediate/SumOfAllNumbers/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/ASUS/Desktop/Github Projects/Dsa-Java/_03_functions/PrimeNumRange/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
   "keyToStringList": {
@@ -89,31 +87,24 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ReverseAString" />
+      <module name="EvenOdd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="PerfectNumber" />
+      <module name="PrimeNumber" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="LeapYear" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SumOfDigit" />
+      <module name="PrimeNumRange" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,13 +116,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MaxAndMinNum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767438711581</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="intermediate loops">
+      <option name="closed" value="true" />
+      <created>1767550352119</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767550352121</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,7 +250,8 @@
     <MESSAGE value="basic codes" />
     <MESSAGE value="changes" />
     <MESSAGE value="basic of loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic of loops" />
+    <MESSAGE value="intermediate loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="intermediate loops" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -254,6 +261,16 @@
           <url>file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_01_basic/_03_functions/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_functions/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
