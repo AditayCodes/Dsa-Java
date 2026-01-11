@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="652ce0db-40d5-4688-b34d-bdbd762301de" name="Changes" comment="intermediate loops">
-      <change afterPath="$PROJECT_DIR$/_03_functions/EvenOdd/EvenOdd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_functions/MaxAndMinNum/MaxAndMinNum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_functions/PrimeNumber/PrimeNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_functions/_03_functions.iml" afterDir="false" />
+    <list default="true" id="652ce0db-40d5-4688-b34d-bdbd762301de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_04_arraysLeetcode/_04_arraysLeetcode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +72,7 @@
     "Application.Main (2).executor": "Run",
     "Application.Main (3).executor": "Run",
     "Application.Main (4).executor": "Run",
-    "Application.Main (5).executor": "Run",
+    "Application.Main (5).executor": "Debug",
     "Application.Main.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,7 +84,7 @@
     "jdk.selected.JAVA_MODULE": "20",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ASUS/Desktop/Github Projects/Dsa-Java",
-    "onboarding.tips.debug.path": "C:/Users/ASUS/Desktop/Github Projects/Dsa-Java/_03_functions/PrimeNumRange/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/ASUS/Desktop/Github Projects/Dsa-Java/_04_arraysLeetcode/ShuffleTheArray/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
   "keyToStringList": {
@@ -87,49 +94,49 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EvenOdd" />
+      <module name="RichestCustomerWealth" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="PrimeNumber" />
+      <module name="ShuffleTheArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="PrimeNumRange" />
+      <module name="BuildArrayfromPermutation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SumOfAllNumbers" />
+      <module name="ConcatenationofArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MaxAndMinNum" />
+      <module name="RunningSumof1dArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767550352121</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="functions">
+      <option name="closed" value="true" />
+      <created>1767781389447</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767781389447</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,7 +266,8 @@
     <MESSAGE value="changes" />
     <MESSAGE value="basic of loops" />
     <MESSAGE value="intermediate loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="intermediate loops" />
+    <MESSAGE value="functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -271,6 +287,25 @@
           <url>file://$PROJECT_DIR$/_03_functions/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_04_arraysLeetcode/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_04_arraysLeetcode/ConcatenationofArray/src/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/_04_arraysLeetcode/RunningSumof1dArray/src/Main.java</url>
+          <line>9</line>
+          <properties class="Main" method="runningSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

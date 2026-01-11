@@ -7,8 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/1_Basic/AddToNum/AddToNum.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/1_Basic/AddToNum/AddToNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/Armstrong/Armstrong.iml" filepath="$PROJECT_DIR$/_01_basic/Armstrong/Armstrong.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/AvarageOfNNum/AvarageOfNNum.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/AvarageOfNNum/AvarageOfNNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_arraysLeetcode/BuildArrayfromPermutation/BuildArrayfromPermutation.iml" filepath="$PROJECT_DIR$/_04_arraysLeetcode/BuildArrayfromPermutation/BuildArrayfromPermutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/1_Basic/CircleArea/CircleArea.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/1_Basic/CircleArea/CircleArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/CompoundInterest/CompoundInterest.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/CompoundInterest/CompoundInterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_arraysLeetcode/ConcatenationofArray/ConcatenationofArray.iml" filepath="$PROJECT_DIR$/_04_arraysLeetcode/ConcatenationofArray/ConcatenationofArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/Currency/Currency.iml" filepath="$PROJECT_DIR$/_01_basic/Currency/Currency.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dsa-Java.iml" filepath="$PROJECT_DIR$/Dsa-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/_03_functions/EvenOdd/EvenOdd.iml" filepath="$PROJECT_DIR$/_03_functions/EvenOdd/EvenOdd.iml" />
@@ -30,6 +32,9 @@
       <module fileurl="file://$PROJECT_DIR$/_03_functions/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/_03_functions/PrimeNumber/PrimeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/1_Basic/RectangleArea/RectangleArea.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/1_Basic/RectangleArea/RectangleArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/ReverseAString/ReverseAString.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/ReverseAString/ReverseAString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_arraysLeetcode/RichestCustomerWealth/RichestCustomerWealth.iml" filepath="$PROJECT_DIR$/_04_arraysLeetcode/RichestCustomerWealth/RichestCustomerWealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_arraysLeetcode/RunningSumof1dArray/RunningSumof1dArray.iml" filepath="$PROJECT_DIR$/_04_arraysLeetcode/RunningSumof1dArray/RunningSumof1dArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_arraysLeetcode/ShuffleTheArray/ShuffleTheArray.iml" filepath="$PROJECT_DIR$/_04_arraysLeetcode/ShuffleTheArray/ShuffleTheArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_basic/SimpleInterest/SimpleInterest.iml" filepath="$PROJECT_DIR$/_01_basic/SimpleInterest/SimpleInterest.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/1_Basic/SubtractSumProduct/SubtractSumProduct.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/1_Basic/SubtractSumProduct/SubtractSumProduct.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/2_intermediate/SumOfAllNumbers/SumOfAllNumbers.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/2_intermediate/SumOfAllNumbers/SumOfAllNumbers.iml" />
@@ -40,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/_01_basic/_01_basic.iml" filepath="$PROJECT_DIR$/_01_basic/_01_basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_conditional-loops/_02_conditional-loops.iml" filepath="$PROJECT_DIR$/_02_conditional-loops/_02_conditional-loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/_03_functions/_03_functions.iml" filepath="$PROJECT_DIR$/_03_functions/_03_functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_arraysLeetcode/_04_arraysLeetcode.iml" filepath="$PROJECT_DIR$/_04_arraysLeetcode/_04_arraysLeetcode.iml" />
     </modules>
   </component>
 </project>
